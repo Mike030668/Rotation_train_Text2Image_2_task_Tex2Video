@@ -12,7 +12,7 @@ class SpliterSimple(nn.Module):
           self.dir_emb = nn.Embedding(ways, emb_dim)
           self.lin_0  = nn.Linear(emb_dim, emb_dim)
           self.dropout = nn.Dropout(0.3)
-          self.lin_1  = nn.Linear(80, emb_dim)
+          self.lin_1  = nn.Linear(80, 128)
           self.lin_2 = nn.Linear(128, 64)
           self.lin_3 = nn.Linear(64, 32)
           self.lin_4 = nn.Linear(32, 16)
