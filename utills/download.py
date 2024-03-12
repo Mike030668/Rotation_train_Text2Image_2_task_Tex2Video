@@ -154,7 +154,7 @@ def gd_folder_download(file_path,  dirt_to):
 
 
 
-def load_gd_file(gd_shared_url, path_to):
+def get_gd_file(gd_shared_url, path_to):
     # левая часть адреса
     main = 'https://drive.google.com/uc?id='
     # Подгружаем на диск ноута файл индексации
