@@ -156,12 +156,20 @@ def gd_folder_download(file_path,  dirt_to):
 
 def get_gd_file(gd_shared_url, path_to):
     # левая часть адреса
-    main = 'https://drive.google.com/uc?id='
-    # Подгружаем на диск ноута файл индексации
-    index_id = gd_shared_url.split('/')[-2]
+    try:
+        main = 'https://drive.google.com/uc?id='
+        # Подгружаем на диск ноута файл индексации
+        index_id = gd_shared_url.split('/')[-2]
+        # Подгружаем на диск ноута файл индексации
+        gdown.download(main + index_id, path_to, quiet=False)
 
-    # Подгружаем на диск ноута файл индексации
-    gdown.download(main + index_id, path_to, quiet=False)
+    except:
+        main = 'https://drive.google.com/file/d/'
+        # Подгружаем на диск ноута файл индексации
+        index_id = gd_shared_url.split('/')[-2]
+        # Подгружаем на диск ноута файл индексации
+        gdown.download(main + index_id, path_to, quiet=False)
+
 
 if __name__ == '__main__':
     main()
