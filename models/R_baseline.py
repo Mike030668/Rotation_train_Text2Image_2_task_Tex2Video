@@ -1,10 +1,10 @@
 import torch
 from torch import nn
 
-class SpliterSimple(nn.Module):
+class R_SpliterSimple(nn.Module):
 
     def __init__(self, max_delta_time, ways, emb_dim):
-          super(SpliterSimple, self).__init__()
+          super(R_SpliterSimple, self).__init__()
           ### New layers:
           self.emb_dim = emb_dim
           self.delta_time = max_delta_time
