@@ -39,3 +39,10 @@ class RotationVectors:
             ((n1.unsqueeze(2) @ n1.unsqueeze(1)) + (n2.unsqueeze(2) @ n2.unsqueeze(1))) * (torch.cos(a).unsqueeze(1).unsqueeze(2) - 1)
 
         return R
+
+    def cosim_rotate(self, b_matrix, cos_sim_matrix, b_R_matrix):
+         """
+         Rotate batch_vectors as matrix with batch R_matrixes
+         with using batch cos_sim these batch_vectors to engine vectors
+         """
+         return torch.mul((1 - cos_sim_matrix).unsqueeze(1), b_matrix) + torch.mul(cos_sim_matrix.unsqueeze(1), b_matrix @ b_R_matrix)
