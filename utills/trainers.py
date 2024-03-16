@@ -743,7 +743,7 @@ class R_trainer():
                             print(f'\nTrain is finished, saved the best model from {self.best_eph[self.last_save]}_ep')
 
                 print(f'\rEp {epoch} all_loss {av_loss:.5f} | acc {av_acc:.5f} | mse_loss {av_mse:.5f} | cos_loss {av_cos:.5f} | lr {cur_lr:.5e} {text}\n')
-
+        ###
         def flush_memory(self):
               import gc
               gc.collect()
