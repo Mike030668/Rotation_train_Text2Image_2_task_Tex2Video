@@ -5,3 +5,7 @@
 Основаа на [предыдущих исследованиях](https://github.com/Mike030668/MIPT_magistratura/tree/main/Text2Video_project) концепции матриц вращений  
 
 ![Alt text](images/R_matrix.png)
+
+**Базовое обучение модели для генерации определенного кадра**
+![Alt text](images/Normal_Back_ways_train.png)
+
