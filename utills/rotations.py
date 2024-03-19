@@ -45,4 +45,4 @@ class RotationVectors:
          Rotate batch_vectors as matrix with batch R_matrixes
          with using batch cos_sim these batch_vectors to engine vectors
          """
-         return torch.mul((1 - cos_sim_matrix**power).unsqueeze(1), b_matrix) + torch.mul(cos_sim_matrix**power.unsqueeze(1), b_matrix @ b_R_matrix)
+         return torch.mul(1 - torch.pow(cos_sim_matrix,power).unsqueeze(1), b_matrix) + torch.mul(torch.pow(cos_sim_matrix,power).unsqueeze(1), b_matrix @ b_R_matrix)
