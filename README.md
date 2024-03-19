@@ -8,3 +8,5 @@
 **Базовое обучение модели для генерации определенного кадра**
 ![Alt text](images/Normal_Back_ways_train.png)
 
+## первые результаты
+<img src="video/first_results/gen_normal_way_1.gif" alt="gif"  width="180"/> <img src="video/first_results/gen_normal_way_2.gif" alt="gif" width="180"/> <img src="video/first_results/gen_normal_way_3.gif" alt="gif" width="180"/> <img src="video/first_results/gen_normal_way_4.gif" alt="gif" width="180"/> <img src="gifs/movie_40.gif" alt="gif"  width="180"/> 
