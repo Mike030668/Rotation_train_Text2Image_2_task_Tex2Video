@@ -4,4 +4,4 @@
 
 Основаа на [предыдущих исследованиях](https://github.com/Mike030668/MIPT_magistratura/tree/main/Text2Video_project) на основе матриц вращений  
 
-![Alt text](images/R matrix.png)
+![Alt text](images/R_matrix.png)
