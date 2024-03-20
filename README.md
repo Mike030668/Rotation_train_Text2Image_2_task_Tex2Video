@@ -10,3 +10,9 @@
 
 ### первые результаты
 <img src="video/first_results/gen_normal_way_1.gif" alt="gif"  width="230"/> <img src="video/first_results/gen_normal_way_3.gif" alt="gif" width="230"/> <img src="video/first_results/gen_normal_way_2.gif" alt="gif" width="230"/> <img src="video/first_results/gen_normal_way_4.gif" alt="gif" width="230"/> 
+
+
+## Добавление матриц вращения к базовому обучению модели для генерации определенного кадра с произвольного момента
+![Alt text](images/R_norm_back_train.png)
+
+### первые результаты
