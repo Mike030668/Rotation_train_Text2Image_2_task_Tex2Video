@@ -11,7 +11,7 @@
 ### первые результаты
 #### на малом тематическом наборе из TGIF без контроля разрешения
 <img src="video/first_results/gen_normal_way_1.gif" alt="gif"  width="270"/> <img src="video/first_results/gen_normal_way_3.gif" alt="gif" width="270"/> <img src="video/first_results/gen_normal_way_2.gif" alt="gif" width="270"/> <img src="video/first_results/gen_normal_way_4.gif" alt="gif" width="270"/> <img src="video/first_results/Teddy_gitar.gif" alt="gif" width="270"/> <img src="video/first_results/Batman.gif" alt="gif" width="270"/> 
-#### Хорошо видно, что Бэтмен не в тематике был датасета пробного, гдн было отобрано про пение и пляж разные видео. Поэтому изменения плохо привносятся из модели.
+#### Хорошо видно, что Бэтмен не в тематике датасета пробного, гдн были отобраны для обучения разные видео про пение и пляж. Поэтому изменения плохо привносятся из модели Spliter в стандартную генерацию диффузионной модели.
 ____________________________________________
 
 
