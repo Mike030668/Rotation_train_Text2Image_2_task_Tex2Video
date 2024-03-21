@@ -21,3 +21,11 @@
 ### первые результаты
 #### на случайном наборе 500 видео 350-500px
 <img src="video/nb_add_rote/Teddy_add_rote.gif" alt="gif"  width="270"/> <img src="video/nb_add_rote/Dog_add_rote.gif" alt="gif" width="270"/> <img src="video/nb_add_rote/Deagon_add_rote.gif" alt="gif" width="270"/>
+
+
+## Добавление генерации из генерации к базовому обучению модели для генерации определенного кадра с произвольного момента
+![Alt text](images/Diff_norm_back_train.png)
+
+### первые результаты
+#### на случайном наборе 500 видео 350-500px
+<img src="video/nb_add_diff/Teddy_add_diff (1).gif" alt="gif"  width="270"/> <img src="video/nb_add_diff/Dog_add_diff.gif" alt="gif" width="270"/> <img src="video/nb_add_diff/Drago_add_diff.gif" alt="gif" width="270"/>
