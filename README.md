@@ -14,6 +14,7 @@
 
 #### на случайном наборе 500 видео 350-500px
 <img src="video/norm_back_train/Teddy_nb.gif" alt="gif"  width="270"/> <img src="video/norm_back_train/Dog_ball_nb.gif" alt="gif" width="270"/> <img src="video/norm_back_train/Dragon_nb.gif" alt="gif" width="270"/>
+______________________
 
 ## Добавление матриц вращения к базовому обучению модели для генерации определенного кадра с произвольного момента
 ![Alt text](images/R_norm_back_train.png)
