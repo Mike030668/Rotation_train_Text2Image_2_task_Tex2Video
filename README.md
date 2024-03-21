@@ -21,7 +21,7 @@ ____________________________________________
 ![Alt text](images/srtucture.png)
 
 ## Базовое обучение модели для генерации определенного кадра
-#### на случайном наборе 500 видео 350-500px
+#### на случайном наборе 500 видео 350-500px из TGIF
 <img src="video/norm_back_train/Teddy_nb.gif" alt="gif"  width="270"/> <img src="video/norm_back_train/Dog_ball_nb.gif" alt="gif" width="270"/> <img src="video/norm_back_train/Dragon_nb.gif" alt="gif" width="270"/>
 ____________________________________________
 
@@ -31,7 +31,7 @@ ____________________________________________
 ![Alt text](images/R_norm_back_train.png)
 
 ### первые результаты
-#### на случайном наборе 500 видео 350-500px
+#### на случайном наборе 500 видео 350-500px из TGIF
 <img src="video/nb_add_rote/Teddy_add_rote.gif" alt="gif"  width="270"/> <img src="video/nb_add_rote/Dog_add_rote.gif" alt="gif" width="270"/> <img src="video/nb_add_rote/Deagon_add_rote.gif" alt="gif" width="270"/>
 ____________________________________________
 
@@ -41,7 +41,7 @@ ____________________________________________
 ![Alt text](images/Diff_norm_back_train.png)
 
 ### первые результаты
-#### на случайном наборе 500 видео 350-500px
+#### на случайном наборе 500 видео 350-500px из TGIF
 <img src="video/nb_add_diff/Teddy_add_diff (1).gif" alt="gif"  width="270"/> <img src="video/nb_add_diff/Dog_add_diff.gif" alt="gif" width="270"/> <img src="video/nb_add_diff/Drago_add_diff.gif" alt="gif" width="270"/>
 ____________________________________________
 
