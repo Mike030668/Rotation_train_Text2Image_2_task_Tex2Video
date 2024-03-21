@@ -48,5 +48,5 @@ ____________________________________________
 ____________________________________________
 
 
-## Генерация из генерации цепрчкой
+## Генерация из генерации цепочкой через матрицу вращения
 <img src="video/pred_from_pred/Dragon_1.gif" alt="gif"  width="270"/> <img src="video/pred_from_pred/balet_1.gif" alt="gif" width="270"/> <img src="video/pred_from_pred/Dragon_2.gif" alt="gif" width="270"/>
