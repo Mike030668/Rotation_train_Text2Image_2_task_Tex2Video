@@ -53,5 +53,5 @@ ____________________________________________
 ____________________________________________
 
 
-## Просто некоторые интересные генерации
-<img src="vvideo/interesting_generation/Balet_1.gif" alt="gif"  width="710"/> <img src="video/interesting_generation/Dog_1.gif" alt="gif" width="710"/> <img src="video/interesting_generation/Ballet_2.gif" alt="gif" width="710"/> <img src="video/interesting_generation/Dog_2.gif" alt="gif" width="710"/>
+# Просто некоторые интересные генерации
+<img src="video/interesting_generation/Balet_1.gif" alt="gif"  width="350"/> <img src="video/interesting_generation/Dog_1.gif" alt="gif" width="350"/> <img src="video/interesting_generation/Ballet_2.gif" alt="gif" width="350"/> <img src="video/interesting_generation/Dog_2.gif" alt="gif" width="350"/>
