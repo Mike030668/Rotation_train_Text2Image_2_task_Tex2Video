@@ -47,3 +47,6 @@ ____________________________________________
 <img src="video/all_train/Teddy_all.gif" alt="gif"  width="270"/> <img src="video/all_train/Dog_all.gif" alt="gif" width="270"/> <img src="video/all_train/gen_from_Model_R_SpliterSimple_all_from_start_New_2.gif" alt="gif" width="270"/>
 ____________________________________________
 
+
+## Генерация из генерации цепрчкой
+<img src="video/pred_from_pred/Dragon_1.gif" alt="gif"  width="270"/> <img src="video/pred_from_pred/balet_1.gif" alt="gif" width="270"/> <img src="video/pred_from_pred/Dragon_2.gif" alt="gif" width="270"/>
