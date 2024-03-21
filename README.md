@@ -50,3 +50,8 @@ ____________________________________________
 
 ## Генерация из генерации цепочкой через матрицу вращения
 <img src="video/pred_from_pred/Dragon_1.gif" alt="gif"  width="270"/> <img src="video/pred_from_pred/balet_1.gif" alt="gif" width="270"/> <img src="video/pred_from_pred/Dragon_2.gif" alt="gif" width="270"/>
+____________________________________________
+
+
+## Просто некоторые интересные генерации
+<img src="vvideo/interesting_generation/Balet_1.gif" alt="gif"  width="710"/> <img src="video/interesting_generation/Dog_1.gif" alt="gif" width="710"/> <img src="video/interesting_generation/Ballet_2.gif" alt="gif" width="710"/> <img src="video/interesting_generation/Dog_2.gif" alt="gif" width="710"/>
