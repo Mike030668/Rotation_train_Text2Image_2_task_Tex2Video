@@ -14,7 +14,9 @@
 
 #### на случайном наборе 500 видео 350-500px
 <img src="video/norm_back_train/Teddy_nb.gif" alt="gif"  width="270"/> <img src="video/norm_back_train/Dog_ball_nb.gif" alt="gif" width="270"/> <img src="video/norm_back_train/Dragon_nb.gif" alt="gif" width="270"/>
-______________________
+____________________________________________
+
+
 
 ## Добавление матриц вращения к базовому обучению модели для генерации определенного кадра с произвольного момента
 ![Alt text](images/R_norm_back_train.png)
@@ -22,6 +24,8 @@ ______________________
 ### первые результаты
 #### на случайном наборе 500 видео 350-500px
 <img src="video/nb_add_rote/Teddy_add_rote.gif" alt="gif"  width="270"/> <img src="video/nb_add_rote/Dog_add_rote.gif" alt="gif" width="270"/> <img src="video/nb_add_rote/Deagon_add_rote.gif" alt="gif" width="270"/>
+____________________________________________
+
 
 
 ## Добавление генерации из генерации к базовому обучению модели для генерации определенного кадра с произвольного момента
@@ -30,3 +34,12 @@ ______________________
 ### первые результаты
 #### на случайном наборе 500 видео 350-500px
 <img src="video/nb_add_diff/Teddy_add_diff (1).gif" alt="gif"  width="270"/> <img src="video/nb_add_diff/Dog_add_diff.gif" alt="gif" width="270"/> <img src="video/nb_add_diff/Drago_add_diff.gif" alt="gif" width="270"/>
+____________________________________________
+
+
+## Комбинированое обучение на всех техниках на каждой эпохе
+### первые результаты
+#### на случайном наборе 500 видео 350-500px
+<img src="video/all_train/Teddy_all.gif" alt="gif"  width="270"/> <img src="video/all_train/Dog_all.gif" alt="gif" width="270"/> <img src="video/all_train/gen_from_Model_R_SpliterSimple_all_from_start_New_2.gif" alt="gif" width="270"/>
+____________________________________________
+
