@@ -54,7 +54,7 @@ ____________________________________________
 
 
 ## Генерация из генерации цепочкой через матрицу вращения
-<img src="video/pred_from_pred/Dragon_1.gif" alt="gif"  width="400"/> <img src="video/pred_from_pred/balet_2.gif" alt="gif" width="400"/> <img src="video/pred_from_pred/Dragon_2.gif" alt="gif" width="2400"/> <img src="video/pred_from_pred/balet_1.gif" alt="gif" width="400"/> 
+<img src="video/pred_from_pred/Dragon_1.gif" alt="gif"  width="400"/> <img src="video/pred_from_pred/Ballet_2.gif" alt="gif" width="400"/> <img src="video/pred_from_pred/Dragon_2.gif" alt="gif" width="400"/> <img src="video/pred_from_pred/balet_1.gif" alt="gif" width="400"/> 
 ____________________________________________
 
 
